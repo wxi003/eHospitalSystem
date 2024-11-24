@@ -1,6 +1,6 @@
 <!-- This file facilitates the deletion of a patient from the database either by selecting from a list or entering the OHIP number.-->
 <!-- Database connection closes at the end of the file.-->
-<!-- Programmer Name: 72 -->
+
 
 <?php
 include 'connectdb.php';
