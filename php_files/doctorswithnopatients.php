@@ -1,6 +1,6 @@
 <!-- This file displays a list of doctors who currently have no patients assigned to them.-->
 <!-- Database connection closes at the end of the file.-->
-<!-- Programmer Name: 72 -->
+
 <?php
 include 'connectdb.php';
 
