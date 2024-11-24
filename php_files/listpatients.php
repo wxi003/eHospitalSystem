@@ -1,6 +1,6 @@
 <!-- This file displays a list of all patients from the database with options to sort by first name or last name and to choose ascending or descending order.-->
 <!-- Database connection closes at the end of the file.-->
-<!-- Programmer Name: 72 -->
+
 <?php
 include 'connectdb.php';
 
