@@ -1,6 +1,6 @@
 <!-- This file enables the addition of new patients to the database while ensuring data integrity (e.g., unique OHIP numbers)-->
 <!-- Database connection closes at the end of the file.-->
-<!-- Programmer Name: 72 -->
+
 
 <?php
 include 'connectdb.php';
