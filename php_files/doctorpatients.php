@@ -1,6 +1,6 @@
 <!-- This file lists all doctors and their assigned patients. -->	
 <!-- Database connection closes at the end of the file.-->
-<!-- Programmer Name: 72 -->
+
 
 <?php
 include 'connectdb.php';
